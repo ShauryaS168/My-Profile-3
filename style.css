@@ -1,0 +1,23 @@
+h1{
+    color: gold;
+}
+*{
+    background-color: lightyellow;
+}
+.header{
+    background-color: palegoldenrod;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: last baseline;
+}
+p,h2{
+    text-align: center;
+}
